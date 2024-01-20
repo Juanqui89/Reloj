@@ -1,0 +1,30 @@
+* {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-weight: 500;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background: #333;
+  color: #fff;
+}
+section{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 150px auto;
+  border: 1px solid #078b64;
+  padding: 10px;
+  border-radius: 50%;
+  width: 50%;
+  height: 50vh;
+}
+article{
+  margin: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.2em;
+}
